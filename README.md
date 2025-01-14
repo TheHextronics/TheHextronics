@@ -34,7 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehextronics&show_icons=true&locale=en" alt="thehextronics" /></p>
 
-<img align="right" alt="Coding2" width="300" src="https://github.com/TheHextronics/TheHextronics/blob/main/firmware.png">
+<img align="right" alt="Coding2" width="300" src="https://github.com/TheHextronics/TheHextronics/blob/main/Desing%20firmware.png">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehextronics&" alt="thehextronics" /></p>
 
