@@ -1,4 +1,4 @@
-![logo](https://github.com/TheHextronics/TheHextronics/blob/main/youtube%20grid%20Banner%20template.gif)
+![logo](https://github.com/TheHextronics/TheHextronics/blob/main/Cover.png)
 <h1 align="center">Hi 👋, I'm Subhadip Samanta</h1>
 <h3 align="center">🚀 "Passionate about Electronics and Instrumentation | Exploring the intersection of hardware and software"</h3>
 
