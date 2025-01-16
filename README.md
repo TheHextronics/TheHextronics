@@ -4,7 +4,7 @@
 
 <h3 align="center">🚀 "Passionate about Electronics and Instrumentation | ⚡ Exploring the intersection of hardware and software"</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952apjz9jp8i3r8z794dizyoczjv1ar8kcejnrrj7f0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding"  height="300" width="250" src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952apjz9jp8i3r8z794dizyoczjv1ar8kcejnrrj7f0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thehextronics&label=Profile%20views&color=0e75b6&style=flat" alt="thehextronics" /> </p>
 
@@ -23,44 +23,27 @@
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/subhadip-samanta-355163290" target="_blank">Linkedin</a> Or Download <a href="https://github.com/TheHextronics/TheHextronics/blob/main/Subhadip_Samanta_CV.pdf" target="_blank">CV/Resume</a>
 
 <h3 align="left"> ✨ Connect with me:</h3>
+<img align="right" alt="Coding1"  height="200" width="200" src="https://github.com/TheHextronics/TheHextronics/blob/main/programming.png">
+
 <p align="left">
+<a href="https://www.youtube.com/@Thehextronics" target="_blank"><img align="center" src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/youtube.svg" alt="YouTube" height="30" width="40" /></a><a href="https://www.facebook.com/Thehextronics/" target="_blank"><img align="center" src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/facebook-3-2.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subhadip-samanta-355163290" target="_blank"><img align="center" src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/@Thehextronics" target="_blank"><img align="center" src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/youtube.svg" alt="https://www.youtube.com/channel/ucbyawcfs98p70y6cu-kougq" height="30" width="40" /></a><a href="mailto: subhadipiot@gmail.com" target="_blank"><img align="center" src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/gmail-.svg" alt="mailto: subhadipiot@gmail.com" height="30" width="40" /></a><a href="https://www.linkedin.com/in/subhadip-samanta-355163290" target="_blank"><img align="center" src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/linkedin.svg" alt="https://www.linkedin.com/in/subhadip-samanta-355163290" height="30" width="40" /></a>
+<a href="mailto: subhadipiot@gmail.com" target="_blank"><img align="center" src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/gmail-.svg" alt="Gmail" height="30" width="40" /></a><a href="https://www.instagram.com/aka_hextronics" target="_blank"><img align="center" src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/instagram-2016-5.svg" alt="Instagram" height="30" width="40" /></a><a href="https://github.com/TheHextronics" target="_blank"><img align="center" src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/github.svg" alt="Github" height="30" width="40" /></a></p>
 
-<a href="https://www.facebook.com/Thehextronics/" target="_blank"><img align="center" src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/facebook-3-2.svg" alt="https://www.facebook.com/Thehextronics/" height="30" width="40" /></a><a href="https://www.instagram.com/aka_hextronics" target="_blank"><img align="center" src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/instagram-2016-5.svg" alt="https://www.instagram.com/aka_hextronics/" height="30" width="40" /></a><a href="https://github.com/TheHextronics" target="_blank"><img align="center" src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/github.svg" alt="https://github.com/TheHextronics" height="30" width="40" /></a>
-
-
-
-
-
-
-
-
-
-</p>
 
 <h3 align="left"> 🖥️ Languages,Tools and Skills:</h3>
+<p align="left"><a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/c.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/c%2B%2B.svg" alt="c++" width="40" height="40"/> </a><a href="https://www.w3schools.com/Html/" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/html.svg" alt="Html" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/css.svg" alt="css" width="40" height="40"/> </a><a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/javascript.svg" alt="Javascript" width="40" height="40"/> </a><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/python-5.svg" alt="Python" width="40" height="40"/> </a>
 
-<img align="right" alt="Coding1" width="290" src="https://github.com/TheHextronics/TheHextronics/blob/main/programming.png">
-<p align="left"> 
 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/arduino.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/c.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/c%2B%2B.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/arduino.svg" alt="Arduino" width="40" height="40"/> </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/visual-studio-code.svg" alt="Visualstudio_Code" width="40" height="40"/> </a><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/visual-studio-2013.svg" alt="Visualstudio" width="40" height="40"/> </a><a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/matlab.svg" alt="Matelab" width="40" height="40"/> </a><a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/kicad.svg" alt="kicad" width="40" height="40"/> </a> 
+<a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img src="hhttps://github.com/TheHextronics/TheHextronics/blob/main/Icon/altium.svg" alt="altium" width="40" height="40"/> </a> 
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/in/products/photoshop/free-trial-download.html" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/photoshop.svg" alt="Photoshope" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/indesign/free-trial-download.html" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/indesign.svg" alt="indesign" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/illustrator.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://helpx.adobe.com/in/support/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/adobe-xd.svg" alt="illustrator" width="40" height="40"/> </a> 
 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<a href="https://www.image-line.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/fl-studio.svg" alt="Fl Studio" width="40" height="40"/> </a> <a href="https://www.steinberg.net/cubase/" target="_blank" rel="noreferrer"> <img src="https://github.com/TheHextronics/TheHextronics/blob/main/Icon/cubase.svg alt="photoshop" width="40" height="40"/> </a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehextronics&show_icons=true&locale=en&layout=compact" alt="thehextronics" /></p>
