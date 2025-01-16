@@ -49,6 +49,4 @@
 <p><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehextronics&" alt="thehextronics" /></p>
 
-
-<img align="center",src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-
+<P><img align="right" alt="AboutMe"  height="300" width="250" src="https://github.com/TheHextronics/TheHextronics/blob/main/about_me.gif"></P>
